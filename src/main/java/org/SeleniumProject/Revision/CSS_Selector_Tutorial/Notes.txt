@@ -1,0 +1,74 @@
+XPATH
+//*->All elements in DOM
+//@id->All elements containing id tag
+//img[@src and @alt]->find img tag which contains both src and alt tag
+//*[@src and @alt]-> find all elements and check if it contains both src and alt tag
+//input[contains(@class,'btn')]
+//h5[starts-with(text(),'In')]
+
+CSS SELECTOR
+#input-email           //*[@id='input-email']
+input#input-email      //input[@id='input-email']
+Single class- .className
+Multiple class- .class1.class2.class3
+input.form-control
+
+input#input-email.form-control======>tag#id.className
+#input-email.form-control===========>id.className
+.form-control#input-email============>.class#id
+.col-sm-3.hidden-xs#column-right=====>.class1.class2#id
+.col-sm-3#column-right.hidden-xs======>mix
+
+
+By tags and attribute
+input[name='email']==========>tag[attr='value']
+
+multiple tags
+input[type='password'][name='password']
+x---------------------------------------------x
+
+input.form-control#input-email[name='email']
+input#input-email[name='email'].form-control
+
+
+Limitation in CSS
+text() is not supported
+
+51:04
+
+Contains
+input[name*='em'] //remember we can use single class name with * and not without *
+
+Starts with
+input[name^='e']
+
+Ends with
+input[name$='il']
+
+
+Parent to child traversing
+parent_tag child_tag     {direct+indirect child}
+or
+parent_tag>child_tag  {child is directly associated}
+
+
+//backward traversing not supported
+
+
+Fetching more than one element at time in CSS use comma
+input#username,input#password
+
+
+Not operator
+input.form-control.private-form__control:not(#username)==>if two tags having common class and want to exclude by specific attribute value
+
+Exclude more than 1 using not
+.form-control:not(input[id='username'],input[id='password'])
+
+
+Indexing
+Firstchild/last
+select.dropdown>option:last-child
+
+By index
+select.dropdown>option:nth-of-type(2)

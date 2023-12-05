@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75da5e1e-b033-42d8-87ea-949c060a5e21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Actions/ClickNSenkeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Actions/DragNDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Actions/MoveToElementConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Actions/RightClickHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Actions/Sliders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Alert_JS_Popup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BasicAuthPopups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultiWindowTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultipleWindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowserWindowHandle/BrowserWindowHandleTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowserWindowHandle/CaseOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowserWindowHandle/CaseTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowserWindowHandleConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/CSS_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Calendar/WorkingCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/CheckBoxUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/DropdownHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/FetchFromFooter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/FindElementsAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/FramesTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/GMAILLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/GetValueFromTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/HeadLessBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/HeadLessMode/HeadLess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/IframeDemo/IFrameTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/InvalidLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/JavaScriptExecutorTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/LocatorConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Multilevel/BigBasketML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Navigations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/NewWindowHandleTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Pagination/PageAllTutv2_Worked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Pagination/PaginationAllTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Pagination/PaginationTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/PseudoElementsConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/QuitvsClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/RelativeLocatorTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Events/AlertsTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Events/DragNDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Events/MixImplicitExplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Events/MouseOverEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/StaleElementTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Revision/CSS_Selector_Tutorial/Syncs/SyncronisationInSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/SVGElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Scroller/ScrollerToSpecificElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/SendKeys/DocSendKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/SendKeys/SendKeysTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/ShadowDOM/ShadowDOMTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/AlertExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/FetchTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/FetchURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/FluentWait/FluentWaitTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/FooterElementWebDriverWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/Waiting/WaitInSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/WebDriverBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/WebDriverSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/WebDriverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/WebElementsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/ZoomFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/utils/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/SeleniumProject/vvipCustomXPATHConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Popups.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SeleniumXpath.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Wait.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/DemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/DependencyTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/ExceptionCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/InvocationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTutorials/OpenCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testRunners/TestNg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2X7oc8Su7kh5PZ3X6LK6gzShnHG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.SeleniumProject.Pagination" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.GoogleTest.OpenGoogle">
+    <configuration name="AlertsTut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.Events.AlertsTut" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.Events.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragNDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.Events.DragNDrop" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.Events.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaleElementTut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.StaleElementTut" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SeleniumProject.Revision.CSS_Selector_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/000Starting new/Selenium/src/test/resources/testRunners/TestNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testRunners/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest.OpenGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNGTutorials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNGTutorials" />
+      <option name="MAIN_CLASS_NAME" value="TestNGTutorials.GoogleTest" />
+      <option name="METHOD_NAME" value="OpenGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AlertsTut" />
+      <item itemvalue="Application.DragNDrop" />
+      <item itemvalue="Application.StaleElementTut" />
+      <item itemvalue="TestNG.GoogleTest.OpenGoogle" />
+      <item itemvalue="TestNG.D:/000Starting new/Selenium/src/test/resources/testRunners/TestNg.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GoogleTest.OpenGoogle" />
+        <item itemvalue="TestNG.D:/000Starting new/Selenium/src/test/resources/testRunners/TestNg.xml" />
+        <item itemvalue="Application.StaleElementTut" />
+        <item itemvalue="Application.AlertsTut" />
+        <item itemvalue="Application.DragNDrop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75da5e1e-b033-42d8-87ea-949c060a5e21" name="Changes" comment="" />
+      <created>1697989555823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697989555823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultipleWindowHandle.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultipleWindowHandle.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultipleWindowHandle.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/SeleniumProject/BrowseMultipleWindowHandle.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium$D__000Starting_new_Selenium_src_test_resources_testRunners_TestNg_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testRunners/TestNg.xml Coverage Results" MODIFIED="1700590621606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
