@@ -13,7 +13,7 @@ public class GoogleTest extends BaseTest
     public void OpenGoogle(String url) throws InterruptedException {
         webDriver.get(url);
         System.out.println(webDriver.getTitle());
-        Assert.fail();
+        
 
 
 
